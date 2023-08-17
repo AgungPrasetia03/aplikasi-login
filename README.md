@@ -1,7 +1,9 @@
 # aplikasi-login
 sebuah aplikasi dengan fitur login
 
-AlurFitur Login:
-1. masukkan email dan password
-2. memvalidasi masukkan.
-3. menampilkan halaman beranda.mmMmm
+Alur Fitur Login:
+1. Memasukkan nama, email, dan password
+2. Memvalidasi masukan.
+3. Memvalidasi pengguna dengan deteksi wajah.
+4. Memasukkan nama ibu untuk validasi.
+5. Menampilkan halaman home.
